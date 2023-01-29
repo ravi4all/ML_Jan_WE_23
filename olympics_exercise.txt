@@ -1,0 +1,6 @@
+1. Read both files in olympics and append them
+2. Which male athlete won most gold medals ?
+3. Which country has won most medals ?
+4. How many medals India has won so far ?
+5. Plot top 10 countries with most gold medals
+6. In which sports India has won most medals ?
