@@ -1,0 +1,37 @@
+Data Science
+- Data Collection
+	- Web Scraping / File Handling / API Calls / Database
+- Data Analysis
+	- Data Cleaning
+	- EDA - Exploratory Data Analysis - Statistics
+	- Data Visualization
+- Data Preprocessing
+- Machine Learning
+- Optimization
+- Deployment
+============================================
+Numpy 
+- Numerical Python
+- NDimensional Array
+- Mathematical Computation
+
+Pandas
+- Data Analysis
+- Series	- 1D
+- DataFrame	- 2D
+
+Matplotlib, Seaborn
+- Data Visualization
+
+Plotly
+- Advanced Data Visualization
+============================================
+
+
+
+
+
+
+
+
+
