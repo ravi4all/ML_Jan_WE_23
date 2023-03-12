@@ -1,0 +1,34 @@
+Javascript
+
+Netscape - world first web browser
+static browser - Nexus
+
+Brendan Eich - self + scheme + python + java
+
+- written JS first version in 10 days
+Mocha -> LiveScript -> JavaScript
+
+Mosaic - world first dynamic web browser
+
+ECMA - European Computer Manufacturer Association
+ECMAScript
+
+Mozilla
+
+Brave Browser
+
+Javascript
+- Client + Server Side Dynamic Scripting Language
+
+Features of JS
+- Interpreted Language
+  - Chrome V8 Engine
+- Dynamically Typed
+- Multi-Paradigm
+- Loosely Typed
+- Event Driven
+
+
+
+
+
