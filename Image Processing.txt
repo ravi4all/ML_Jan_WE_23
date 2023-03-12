@@ -1,0 +1,43 @@
+Image Processing
+
+- image classification
+	- gender classification
+	- age classification
+	- face recognition
+
+- image filters
+
+opencv - Open Computer Vision
+
+What is an Image ?
+- collection of pixels
+- each pixel contains 3 color values - RGB - Red Green Blue
+- color is in a range from 0 to 255
+- 0 denotes black and 255 denotes white
+
+rgb(255,255,255)
+rgb(0,0,0)
+rgb(255,0,0)
+rgb(0,255,0)
+rgb(0,0,255)
+rgb(100,50,150)
+
+- image is an array of numpy type
+
+Usage of opencv
+- pip install opencv-python
+
+Haar Feature Detection
+
+2001 - Voila and Jones
+- face detection
+
+
+
+
+
+
+
+
+
+
